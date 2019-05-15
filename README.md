@@ -1,6 +1,7 @@
 # twitterBots
 
-All the Twitter Bots used by [@ComputeHole](https://twitter.com/ComputeHole) on [Twitter](https://twitter.com/). All of them can be seen in action at https://twitter.com/ComputeHole. 
+  * All the Twitter Bots used by [@ComputeHole](https://twitter.com/ComputeHole) on [Twitter](https://twitter.com/). 
+  * All of them can be seen in action at https://twitter.com/ComputeHole. 
 
 ## retweetBot 
 
