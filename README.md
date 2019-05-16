@@ -15,8 +15,7 @@
 
   * [mwoolweaver/retweetBot](https://github.com/mwoolweaver/retweetBot) forked from [MChambers1992/retweet-bot](https://github.com/MChambers1992/retweet-bot)
   
-  ![exampleRetweet](docs/exampleRetweet0.png)
-  
+  ![exampleRetweet](docs/exampleRetweet0.png)       
   ![exampleRetweet](docs/exampleRetweet1.png)
   
 ## tweetStats
