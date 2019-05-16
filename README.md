@@ -1,11 +1,3 @@
-#### Table of Contents
-  * [retweetBot](./README.md#retweetBot)
-
-  * [tweetStats](./README.md#tweetStats)
-
-  * [Third Example](./README.md#weatherBot)
-
-
 # twitterBots
 
   * All the Twitter Bots used by [@ComputeHole](https://twitter.com/ComputeHole) on [Twitter](https://twitter.com/). 
