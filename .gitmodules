@@ -4,3 +4,6 @@
 [submodule "weatherBot"]
 	path = weatherBot
 	url = https://github.com/mwoolweaver/weatherBot
+[submodule "tweetStats"]
+	path = tweetStats
+	url = https://github.com/mwoolweaver/tweetStats.git
