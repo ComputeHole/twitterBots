@@ -1,9 +1,6 @@
 [submodule "retweetBot"]
 	path = retweetBot
 	url = https://github.com/mwoolweaver/retweetBot
-[submodule "tweetStats"]
-	path = tweetStats
-	url = https://github.com/mwoolweaver/tweetStats
 [submodule "weatherBot"]
 	path = weatherBot
 	url = https://github.com/mwoolweaver/weatherBot
